@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+//Maps != Structs
+
 func main() {
 	colors := map[string]int {
 		"red": 1,
